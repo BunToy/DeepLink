@@ -13,7 +13,7 @@ At present, BUNTOY is free to open deeplink requests to everyone. You can contac
 
 Call the interface to generate a payment jump link
 
-[Url: http://myhero9.com/sdk/deepLinkUrl](http://myhero9.com/sdk/deepLinkUrl) , Use Post request
+[Url:http://myhero9.com/bunserver/sdk/deepLinkUrl  ](http://myhero9.com/bunserver/sdk/deepLinkUrl) , Use Post request
 
 ![](https://cdn-images-1.medium.com/max/1600/1*iL9bYGtoPh0DeK2hFacPBw.jpeg)
 
